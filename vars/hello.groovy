@@ -1,5 +1,5 @@
-def call(def names){
-  for(int i=0, i < names.length; i++){
-   println "Name of the person is " + i 
-  }
+def call(def name){
+  
+   println "Name of the person is " + name 
+  
 }
